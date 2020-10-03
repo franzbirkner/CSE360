@@ -11,7 +11,7 @@ public class AddingMachine
 	private int total;
 	private String history = "0";
 	/*
-  constructor, creates an adding machine object and then adds 4, 
+  constructor, creates an adding machine object and then adds 4, subtracts 2 and then adds 5
 	 */
 	public static void main(String []args)
 	{
